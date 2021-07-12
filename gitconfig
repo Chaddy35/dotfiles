@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = chad-10@live.com.au
+	name = 'chad' 'franceschini'
